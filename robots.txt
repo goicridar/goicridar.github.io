@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://goicridar.github.io/goicridar.goicridar
+Sitemap: https://goicridar.github.io/app/goicridar.goicridar
+Sitemap: https://goicridar.github.io/assets/goicridar.goicridar
+Sitemap: https://goicridar.github.io/css/goicridar.goicridar
+Sitemap: https://goicridar.github.io/includes/goicridar.goicridar
+Sitemap: https://goicridar.github.io/item/goicridar.goicridar
+Sitemap: https://goicridar.github.io/src/goicridar.goicridar
